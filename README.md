@@ -303,8 +303,7 @@ Offset | Register | Description
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrabathBK/SIngle-Cylce-Processor-.git
-   cd SIngle-Cylce-Processor-
+   git clone https://github.com/PrabathBK/SIngle-Cylce-RV32Core.git
    ```
 
 2. **Install Verilator** (if not already installed)
